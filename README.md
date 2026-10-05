@@ -1,2 +1,0 @@
-# smtpClient
-Assignment #3
